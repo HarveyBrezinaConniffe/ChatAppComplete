@@ -1,0 +1,25 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "A beginner chat application project template.",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Harvey Brezina Conniffe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarveyBrezinaConniffe/ChatAppTemplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HarveyBrezinaConniffe/ChatAppTemplate/issues"
+  },
+  "homepage": "https://github.com/HarveyBrezinaConniffe/ChatAppTemplate#readme"
+}
